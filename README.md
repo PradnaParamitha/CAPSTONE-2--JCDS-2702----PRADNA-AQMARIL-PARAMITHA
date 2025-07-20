@@ -218,7 +218,10 @@ Contoh targeted campaign yang bisa disarankan berdasarkan produk favorit segmen 
 
 ## Link Visualisasi Tableu
 
-Link visualisasi tableu dapat ditemukan pada link berikut ini:
+[![Segmentasi Pelanggan](Segmentasi%20Pelanggan%20Brightmart.png)](https://public.tableau.com/views/Book1_17529175713450/SegmentasiPelangganSupermarketXYZ?:language=en-US&publish=yes)
+
+Klik gambar di atas untuk melihat visualisasi interaktif di Tableau Public.
+
 
 Link alternatif
 
