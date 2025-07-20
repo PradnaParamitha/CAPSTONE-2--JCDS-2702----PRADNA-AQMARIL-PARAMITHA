@@ -216,6 +216,13 @@ Contoh targeted campaign yang bisa disarankan berdasarkan produk favorit segmen 
 1. Strategi bundling, misalnya membuat paket khusus charcuterie board yang umumnya berisi daging-dagingan dengan keju atau cemilan lain sebagai teman minum wine. Charcuterie board ini dapat dipromosikan all-year round atau bahkan pada hari-hari raya tertentu, seperti Natal dan Tahun Baru. Di sisi lain, strategi marketing juga dapat menarget segmen pelanggan terhadap persona mereka, misalnya Charcuterie Board for Couples di Hari Valentine.
 2. Soft-selling melalui konten informatif atau edukasional dengan memanfaatkan berbagai kanal marketing luring atau daring. Misalnya, membuat konten di sosial media tentang jenis-jenis daging yang paling cocok dipadukan dengan white wine, red wine, atau rose wine. Supermarket juga dapat menggelar event luring seperti Wine Pairing dan Steak Tasting Event dengan mendatangkan bintang tamu yang ahli di bidang wine atau chef terkenal.
 
+## Link Visualisasi Tableu
+
+Link visualisasi tableu dapat ditemukan pada link berikut ini:
+
+Link alternatif
+
+https://public.tableau.com/views/Book1_17529175713450/SegmentasiPelangganSupermarketXYZ?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 
